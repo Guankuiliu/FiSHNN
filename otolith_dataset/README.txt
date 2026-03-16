@@ -1,0 +1,1 @@
+Note: The data can be downloaded from https://zenodo.org/records/4066594, and after preprocessing, it should be saved with the filename "Species_Habitat" (e.g., AF_BCS, AF_Scheldt, AM_DCS, etc.) in the otolith_dataset folder.
