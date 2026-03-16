@@ -1,0 +1,3 @@
+S 0.3c r 0.3c yellow 0.5p 0.7c BCS
+S 0.3c r 0.3c lightgreen 0.5p 0.7c DCS
+S 0.3c - 0.3c - 1p,red 0.7c SE

@@ -1,0 +1,1 @@
+ gmt convert .\eez\eez.shp -fg > eez.gmt
